@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD1117V
+D IC REG LINEAR Adjustable 800MA TO220AB
+K 497-7310-5-ND
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
+$ENDCMP
+#
+$CMP USB-SS-52100-001
+D CONN RCPT USB2.0 TYPEA 4POS R/A
+K 609-1041-ND 73725
+F https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
+$ENDCMP
+#
+#End Doc Library

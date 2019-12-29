@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name clock_mems_extension)(type KiCad)(uri ${KIPRJMOD}/clock_mems_extension.pretty)(options "")(descr ""))
+)

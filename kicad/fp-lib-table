@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name clock)(type KiCad)(uri ${KIPRJMOD}/clock.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /Users/erikvanzijst/work/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+)
